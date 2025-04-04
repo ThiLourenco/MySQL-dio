@@ -1,7 +1,7 @@
 # Personalizando Acessos e Automatizando ações no MySQL
 
 
-### Parte 1 - [Code 1](./desafio-01-CODE-1.sql)
+### Parte 1 - [Code 1](./desafio-02-CODE-1.sql)
  Personalizando acessos com views 
 
 Neste desafio você irá criar visões para os seguintes cenários 
@@ -26,7 +26,7 @@ Você poderá criar um usuário gerente que terá acesso as informações de emp
 
 Um exemplo retirado da aula para criação de usuário e definição de permissão pode ser encontrado abaixo. 
 
-### Parte 2 - [Code 2](./desafio-01-CODE-2.sql)
+### Parte 2 - [Code 2](./desafio-02-CODE-2.sql)
 
 CODE 1:
 
